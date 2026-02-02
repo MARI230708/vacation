@@ -1,0 +1,116 @@
+/<?php?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>As Férias</title>
+    <link rel="stylesheet" href="ferias.css">
+    <link rel="icon" href="icone.png">
+</head>
+<body>
+    <h1>Como Podemos Aproveitar as Férias Escolares do Melhor Jeito Possível?</h1>
+<div class="carrossel">
+        <input type="radio" name="slide" id="s1" checked>
+        <input type="radio" name="slide" id="s2">
+        <input type="radio" name="slide" id="s3">
+    
+
+    <div class="slides">
+        <div class="slide"><img src="111.jpg" alt="Capa Uma Mente Excepcional"></div>
+        <div class="slide"><img src="2.jpg" alt="Capa Branca de Neve"></div>
+        <div class="slide"><img src="00.jpg" alt="Capa Lilo e Stitch"></div>
+    </div>
+
+    <div class="navegacao">
+        <label for="s1"></label>
+        <label for="s2"></label>
+        <label for="s3"></label>
+    
+  </div>
+</div>
+
+<br>
+<br>
+    <h2>Memórias especiais de como eu e minha família aproveitamos nossas primeiras férias de 2026.</h2>
+<br>
+<br>
+
+<body>
+    <div class="container">
+    <div class="card">
+        <input type="checkbox" id="card1">
+        <label for="card1" class="card-header">
+            <h3>Viajar Para a Praia</h3>
+        </label>
+        <div class="card-content">
+            <p>Para começarmos o ano da melhor forma não tem nada mais incrível do que passar a virada do ano na praia, curtindo o sol, a briza, a areia e o mar com os seus amigos e familiares.</p>
+            <br>
+            <p>Bom, e foi assim que começamos o ano, passando 15 lindos dias no litoral sul curtindo os mares de Mongagua, tendo direito a fogos de artificio, sorvete, centrinho a noite e muita pele queimada e cabelo sujo de areia. Eu preciso revelar que eu amo a praia.</p>
+            <div class="foto">
+                <img src="beach.jpg" alt="praia">
+                <img src="monga.jpg" alt="praia mongagua">
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <input type="checkbox" id="card2">
+        <label for="card2" class="card-header">
+            <h3>Passear por São Paulo</h3>
+        </label>
+        <div class="card-content">
+            <p>Eu sei que muita gente não gosta, mas é impressionante quanta coisa legal conseguimos fazer aqui pelas ruas de São Paulo, como por exemplo conhecer até uma outra cultura.</p>
+            <p>E foi exatamente isso que eu fiz com as minhas amigas em janeiro, pegamos o metrô e passamos o dia no tão falado Bairro da Liberdade, e foi demais, comemos muitas comidas diferentes, o hot dog coreano é simplesmente incrível, e vistamos diversas lojas, foi literalmete uma viagem para a cultura ocidental.</p>
+            <div class="foto">
+                <img src="liber.jpg" alt="liberdade">
+                <img src="hotdog.jpg" alt="hot dog coreano">
+            </div>
+        </div>
+    </div>
+</div>
+<br><br><br><br>
+<div class="container">
+    <div class="card">
+        <input type="checkbox" id="card3">
+        <label for="card3" class="card-header">
+            <h3>Encontrar Amigos de Longa Data</h3>
+        </label>
+        <div class="card-content">
+            <p>A vida pode ser ainda mais legal se você tiver uma boa companhia, amigos de 10 anos que mesmo morando longe o amor sempre continua o mesmo</p>
+            <p>Então para matar a saudade encontrei a minha amiga irmã e resolvemos aproveitar o finalzinho das férias, passeando pelo shopping, jogando boliche, assistindo o novo filme nos cinema e se desafiando a viver a experiência de resolver um quarto cheio de enigmas antes que o tempo de 50 minutos acabem, o famoso escape room. </p>
+            <div class="foto">
+                <img src="boliche.jpg" alt="boliche">
+                <img src="escape.jpg" alt="jogo escape room">
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <input type="checkbox" id="card4">
+        <label for="card4" class="card-header">
+            <h3>Curtir um Show da Sua Banda Favorita</h3>
+        </label>
+        <div class="card-content">
+            <p>A música tem o poder de levar a gente para uma outra dimensão, trazendo emoções com as palavras e alegria com o ritmo</p>
+            <p>Então para finalizar as férias fui curtir o show da banda Lagum com as minhas amigas, com direito a muitos gritos, danças e pessoas, e coloca pessoas nisso hein.</p>
+            <div class="foto">
+                <img src="show.jpg" alt="show">
+                <img src="lagum.jpg" alt="banda lagum">
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>"A vida passa muito rápido. Se você não parar e olhar em volta de vez em quando, você pode perdê-la." — Curtindo a Vida Adoidado </h2>
+<br>
+<footer>
+    <h4>Desenvolvido por: Mariana Pires</h4>
+    <h4>@2026</h4>
+</footer>
+    
+</body>
+</html>
+    
+</body>
+</html>
